@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "247928794897",
+    "firebase_url": "https://sbp-cbr.firebaseio.com",
+    "project_id": "sbp-cbr",
+    "storage_bucket": "sbp-cbr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247928794897:android:4f919aec0416db8f0f66b0",
+        "android_client_info": {
+          "package_name": "com.trydev.cbr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247928794897-nd2ebddpkk4jgfgcc8h1e56u68scj169.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trydev.cbr",
+            "certificate_hash": "2adff0be59b16f31a91225e1b489e039de43f59f"
+          }
+        },
+        {
+          "client_id": "247928794897-c4l10hoohjmm0493g6vuvidb6t9l7jfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUmT66iV9oKipdejo8k7-UqXh0g8cfuFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247928794897-c4l10hoohjmm0493g6vuvidb6t9l7jfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
