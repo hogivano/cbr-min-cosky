@@ -22,7 +22,7 @@ class PhonePresenter: BasePresenter<PhoneContract.View>(),PhoneContract.Presente
     }
 
     override fun setNumber(num: String) {
-            view.onLoading()
+        view.onLoading()
         mAuth.signInWithCustomToken(num).addOnCompleteListener {task ->
             if (task.isSuccessful){
                 view.onSuccess("successful")

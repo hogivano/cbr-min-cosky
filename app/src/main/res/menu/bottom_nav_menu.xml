@@ -4,10 +4,9 @@
         android:id="@+id/nav_home"
         android:icon="@drawable/ic_home_black_24dp"
         android:title="Home" />
-    <item
-        android:id="@+id/nav_solution"
-        android:icon="@drawable/ic_solution_black_24dp"
-        android:title="Solution" />
+    <item android:id="@+id/nav_indication"
+        android:icon="@drawable/ic_healing_black_24dp"
+        android:title="Indication"/>
     <item
         android:id="@+id/nav_history"
         android:icon="@drawable/ic_history_black_24dp"

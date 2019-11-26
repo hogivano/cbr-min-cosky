@@ -24,22 +24,22 @@
                 android:textSize="17sp"
                 android:id="@+id/text_code"
                 android:paddingRight="20dp"/>
-            <androidx.recyclerview.widget.RecyclerView
+            <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Nyeri dada"
                 android:textSize="17sp"
-                android:id="@+id/rv_indication"
+                android:id="@+id/text_name"
                 android:gravity="left"
                 android:layout_weight="1"/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Gagal jantung"
+                android:text="0.5"
                 android:textStyle="bold"
                 android:textSize="17sp"
                 android:textColor="@android:color/holo_red_light"
-                android:id="@+id/text_diagnosis"
+                android:id="@+id/text_value"
                 android:gravity="right"
                 android:paddingLeft="20dp"/>
         </LinearLayout>
